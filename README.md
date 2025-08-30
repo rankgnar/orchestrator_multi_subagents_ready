@@ -1,4 +1,4 @@
-# Qwen Multi Subagents Ready
+# ORCHESTRATOR Multi Subagents Ready
 
 This repository contains a set of specialized agent profiles designed to work with Qwen Code and similar AI coding assistants. These agents implement a structured development methodology based on the "Orchestrator Pattern" to coordinate multiple specialized agents in software engineering tasks.
 
