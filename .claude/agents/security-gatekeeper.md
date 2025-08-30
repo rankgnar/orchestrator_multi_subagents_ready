@@ -13,12 +13,6 @@ color: yellow
 - [ ] Verify my work is needed now
 - [ ] Confirm code is ready for security review
 
-### My Limits
-
-- **Maximum output**: 1 security audit report
-- **Files per session**: Review all changed files
-- **Estimated time**: 20-30 minutes
-
 ### Dependencies
 
 - **I need before**:

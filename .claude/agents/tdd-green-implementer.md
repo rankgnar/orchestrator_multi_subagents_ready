@@ -13,12 +13,6 @@ color: green
 - [ ] Verify my work is needed now
 - [ ] Confirm tests exist and are failing (RED phase complete)
 
-### My Limits
-
-- **Maximum output**: 150 lines of code (minimal implementation only)
-- **Files per session**: 1-2 maximum (test file + implementation)
-- **Estimated time**: 15-20 minutes
-
 ### Dependencies
 
 - **I need before**:

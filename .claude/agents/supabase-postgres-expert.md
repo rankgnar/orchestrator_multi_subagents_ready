@@ -13,12 +13,6 @@ color: pink
 - [ ] Verify my work is needed now
 - [ ] Confirm database requirements are clear
 
-### My Limits
-
-- **Maximum output**: 2 tables or 5 fields per session (incremental approach)
-- **Files per session**: 1-2 migration files maximum
-- **Estimated time**: 20-30 minutes
-
 ### Dependencies
 
 - **I need before**:

@@ -13,12 +13,6 @@ color: cyan
 - [ ] Verify my work is needed now
 - [ ] Confirm necessary previous files exist
 
-### My Limits
-
-- **Maximum output**: 150 lines of code
-- **Files per session**: 1-2 maximum
-- **Estimated time**: 15-30 minutes
-
 ### Dependencies
 
 - **I need before**:

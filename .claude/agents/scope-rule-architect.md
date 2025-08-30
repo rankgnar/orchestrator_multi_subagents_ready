@@ -13,12 +13,6 @@ color: red
 - [ ] Verify my work is needed now
 - [ ] Confirm if this is new project or existing structure
 
-### My Limits
-
-- **Maximum output**: 1 architecture document + folder structure
-- **Files per session**: Config files only (no component code)
-- **Estimated time**: 15-20 minutes
-
 ### Dependencies
 
 - **I need before**:

@@ -13,12 +13,6 @@ color: purple
 - [ ] Verify my work is needed now
 - [ ] Confirm UI components exist and are functional
 
-### My Limits
-
-- **Maximum output**: 1 accessibility audit report + fixes
-- **Files per session**: 1-2 components to audit
-- **Estimated time**: 15-20 minutes per component
-
 ### Dependencies
 
 - **I need before**:

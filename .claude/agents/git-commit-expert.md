@@ -13,12 +13,6 @@ color: orange
 - [ ] Verify my work is needed now
 - [ ] Confirm necessary previous files exist
 
-### My Limits
-
-- **Maximum output**: 1 commit message + 1 PR description
-- **Files per session**: Git operations only (no code changes)
-- **Estimated time**: 5-10 minutes
-
 ### Dependencies
 
 - **I need before**:
